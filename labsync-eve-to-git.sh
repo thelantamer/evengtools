@@ -10,4 +10,3 @@ cp /opt/unetlab/labs/* /git/labsync -r
 # update remote repo
 cd /git/labsync
 git add .
-git commit

@@ -15,3 +15,4 @@ cp /git/labsync/* /opt/unetlab/labs/ -r
 chown www-data:www-data -R /opt/unetlab/labs
 cd /opt/unetlab/labs
 chmod 777 * -R
+

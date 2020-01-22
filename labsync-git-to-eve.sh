@@ -6,7 +6,7 @@ cd /git/labsync/
 git pull
 
 # wipe out working labs folder
-rm -r /opt/unetlab/labs/*
+#rm -r /opt/unetlab/labs/*
 
 # copy repo contents to working labs folder
 cp /git/labsync/* /opt/unetlab/labs/ -r
